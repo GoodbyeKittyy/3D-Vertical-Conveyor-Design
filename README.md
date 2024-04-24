@@ -1,8 +1,8 @@
 ## Description
 
-The project contents were created using the following software: AutoCAD & Sketchup Pro.
+The project contents were created using the following software: AutoCAD & Sketchup Pro. The AutoCAD drawing is compressed in the its' own zip file.
 
-This is a 3D concept for a modern clinic. The AutoCAD drawing is compressed in the its' own zip file.
+This is a 3D concept for a modern clinic. 
 
 </br>
 
